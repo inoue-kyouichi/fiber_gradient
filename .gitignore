@@ -1,0 +1,7 @@
+*.vtu
+!PDL
+build
+*.mk
+archive
+ex_*
+*.dat
